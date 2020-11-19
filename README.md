@@ -9,3 +9,8 @@ Steps for installing :
 Learning Resources : 
 1. Watch youtube videos from Telusko Learning to learn more about Python basics https://www.youtube.com/watch?v=mbryl4MZJms&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=3 
 2. Also a good source to learn python is https://www.w3schools.com/python/
+
+How to add your project folder from Pycharm to your repository : https://docs.github.com/en/free-pro-team@latest/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
+
+
+
